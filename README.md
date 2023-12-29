@@ -43,5 +43,3 @@ This project is licensed under the terms of the Apache License 2.0. See the [LIC
 ## Acknowledgments:
 
 - Kaggle user [andrewmvd](https://www.kaggle.com/andrewmvd) for providing the Heart Failure Clinical Records Dataset.
-
-Feel free to adjust or expand this README.md to include more detailed instructions, explanations, or additional information about the project structure and usage.
