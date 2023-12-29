@@ -18,15 +18,15 @@ This repository contains code and a dataset used for predicting heart failure ra
     git clone https://github.com/avulaankith/Heart-Failure-Rate.git
     ```
 
-2. Install the required dependencies (assuming Python and pip are already installed):
+<!-- 2. Install the required dependencies (assuming Python and pip are already installed):
 
     ```bash
     pip install -r requirements.txt
-    ```
+    ``` -->
 
-3. Explore the code provided in the Jupyter Notebook `heart_rate.ipynb` to understand the model implementation and data analysis.
+2. Explore the code provided in the Jupyter Notebook `heart_rate.ipynb` to understand the model implementation and data analysis.
 
-4. Utilize the saved models (`logreg_model_heart.h5` and `logreg_model_heart_all.h5`) for inference or further development.
+3. Utilize the saved models (`logreg_model_heart.h5` and `logreg_model_heart_all.h5`) for inference or further development.
 
 ## Dataset Information:
 
